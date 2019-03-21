@@ -1,6 +1,6 @@
 # PRACTICA DJANGO API REST FRAMEWORK
 
-Este es un tutorial genial para aquellos que deseen aprender de una forma sencilla y sin tantas complicaciones, esta en ingles pero espero poder traducirlo para evitarles a muchos el traducir.
+Este es un tutorial (de verdad genial) para aquellos que deseen aprender de una forma sencilla y sin tantas complicaciones, esta en ingles pero espero poder traducirlo para evitarles a muchos el traducir.
 
 Fuente: 
 
